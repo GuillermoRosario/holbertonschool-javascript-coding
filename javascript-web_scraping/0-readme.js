@@ -10,3 +10,4 @@ fs.readFile(FileName, 'utf8', function (err, line) {
     console.log(line);
   }
 });
+vi
